@@ -4,7 +4,7 @@ import bodyParser from 'body-parser'
 import dotenv from 'dotenv'
 import { PORT } from './config.js'
 
-// Importar rutas modularizadas
+// Importar rutas modularizadasa
 import usuarisRoutes from './routes/usuaris.js'
 import plantasRoutes from './routes/plantas.js'
 import itemsRoutes from './routes/items.js'
